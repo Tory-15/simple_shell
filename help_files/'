@@ -1,4 +1,4 @@
-help: hel
+help: help
     Display information about builtin commands.
 
     Displays brief summaries of builtin commands.  If PATTERN is
